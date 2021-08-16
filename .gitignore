@@ -1,0 +1,15 @@
+## OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+#maven
+target/
+
+#IDEA
+.idea/
+.idea
+*.iws
+*.iml
+*.ipr
